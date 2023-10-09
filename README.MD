@@ -7,3 +7,4 @@ feature-1 commit-5
 ##FEATURE-2
 feature-2 commit-1
 feature-2 commit-1 <br />
+feature-2 commit-3 <br />
