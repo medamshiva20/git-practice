@@ -4,3 +4,5 @@ feature-1 commit-2
 feature-1 commit-3
 feature-1 commit-4
 feature-1 commit-5
+##FEATURE-2
+feature-2 commit-1
